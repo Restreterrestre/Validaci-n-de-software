@@ -21,4 +21,9 @@ print(3-4)
 print(4*4)
 print(3/4)
 
+Confirmacion = True
 
+if Confirmacion:
+    print('Esta autorizado')
+else:
+    print('No esta autorizado')
