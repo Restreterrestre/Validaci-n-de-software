@@ -1,0 +1,17 @@
+[33mcommit 00388a21a3b0340e6c7a5480c75b255640977b8f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Juan Pablo <juan.perezep@amigo.edu.co>
+Date:   Thu May 29 22:06:42 2025 -0500
+
+    Hagrege una sentencia if basica
+
+[33mcommit 9c5eee4033474ccd63e626ccd3ff6bf710cbb25d[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Juan Pablo <juan.perezep@amigo.edu.co>
+Date:   Thu May 29 21:55:46 2025 -0500
+
+    Hagrege unos print con operaciones basicas
+
+[33mcommit 03ef88f3432c9362d174c4ca01a7205e0eb8cc4c[m
+Author: Juan Pablo <juan.perezep@amigo.edu.co>
+Date:   Thu May 29 21:45:13 2025 -0500
+
+    Coloque unos print y variables para practicar python

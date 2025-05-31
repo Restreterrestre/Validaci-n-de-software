@@ -27,3 +27,7 @@ if Confirmacion:
     print('Esta autorizado')
 else:
     print('No esta autorizado')
+
+Lista_numeros = [1,2,5,4,4]
+
+print(Lista_numeros[1])
