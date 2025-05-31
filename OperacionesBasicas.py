@@ -1,3 +1,5 @@
+import Nodo
+
 #Este es un comentario
 print ("Hola mundo")  #Este es un print sirve para mostrar en la terminal
 
@@ -30,4 +32,7 @@ else:
 
 Lista_numeros = [1,2,5,4,4]
 
-print(Lista_numeros[1])
+print(Lista_numeros[1])  #Esta es una lista en python puede contener numeros o caracteres y otros datos '
+
+
+Nodo.Suma(3,4)
